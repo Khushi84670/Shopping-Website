@@ -35,7 +35,7 @@ This shopping website project demonstrates a complete, modern React-based e-comm
 🎠 React Slick,
 🌐 Context API,
 🔐 Clerk Authentication,
-⚙️ Installation,
+⚙️ Installation
 
 🏃‍♀️ Usage
 As a learning project for React & Tailwind CSS
