@@ -7,14 +7,14 @@ An advanced, responsive e-commerce front-end built with React.js and Tailwind CS
 👉 https://shopping-website-gamma-one.vercel.app/
 
 📌 Table of Contents
-About
-Features
-Tech Stack
-Installation
-Usage
-Contributing
-License
-Author
+About,
+Features,
+Tech Stack,
+Installation,
+Usage,
+Contributing,
+License,
+Author,
 
 📖 About
 This shopping website project demonstrates a complete, modern React-based e-commerce front-end. It is designed to help you learn real-world development techniques such as state management, authentication, and responsive design.
