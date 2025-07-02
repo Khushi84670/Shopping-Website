@@ -9,7 +9,6 @@ An advanced, responsive e-commerce front-end built with React.js and Tailwind CS
 📌 Table of Contents
 About
 Features
-Screenshots
 Tech Stack
 Installation
 Usage
@@ -21,27 +20,22 @@ Author
 This shopping website project demonstrates a complete, modern React-based e-commerce front-end. It is designed to help you learn real-world development techniques such as state management, authentication, and responsive design.
 
 ✨ Features
-✅ Setting up the React project
-✅ Designing a modern UI with Tailwind CSS
-✅ Creating a carousel in React using React Slick
-✅ Implementing pagination
-✅ Managing cart and user state with Context API
-✅ Adding user authentication with Clerk
-✅ Creating product pages, cart functionality, and more!
-✅ Adding cart items in local storage
-
-🖼️ Screenshots
-
-
-
+✅ Setting up the React project,
+✅ Designing a modern UI with Tailwind CSS,
+✅ Creating a carousel in React using React Slick,
+✅ Implementing pagination,
+✅ Managing cart and user state with Context API,
+✅ Adding user authentication with Clerk,
+✅ Creating product pages, cart functionality and more!
+✅ Adding cart items in local storage,
 
 🔥 Technologies Used
-⚛️ React.js
-💨 Tailwind CSS
-🎠 React Slick
-🌐 Context API
-🔐 Clerk Authentication
-⚙️ Installation
+⚛️ React.js,
+💨 Tailwind CSS,
+🎠 React Slick,
+🌐 Context API,
+🔐 Clerk Authentication,
+⚙️ Installation,
 
 🏃‍♀️ Usage
 As a learning project for React & Tailwind CSS
@@ -56,11 +50,7 @@ Fork the repository
 Create a new branch (git checkout -b feature/YourFeature)
 Commit your changes (git commit -m 'Add new feature')
 Push to the branch (git push origin feature/YourFeature)
-
 Open a Pull Request
-
-📜 License
-This project is licensed under the MIT License.
 
 👩‍💻 Author
 Khushi Jaiswal
